@@ -1,0 +1,25 @@
+# OS artifacts
+.DS_Store
+**/.DS_Store
+
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+Backend/.env
+Backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# Local Strapi state/config
+Backend/.strapi/
+Backend/.strapi-cloud.json
+Backend/.strapi-updater.json
+
+# Build outputs
+frontend/.next/
+frontend/out/
+frontend/build/
