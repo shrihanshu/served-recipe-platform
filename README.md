@@ -1,3 +1,5 @@
+## Live Preview - [https://served-recipe-platform-my1m.vercel.app/](url)
+
 # AI Recipe Platform
 
 AI Recipe Platform is a full-stack application that helps users cook with what they already have at home. It combines pantry scanning, AI recipe generation, saved recipes, and a recipe discovery experience in one product.
