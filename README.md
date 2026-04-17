@@ -1,4 +1,4 @@
-## Live Preview - [https://served-recipe-platform-my1m.vercel.app/](url)
+## Live Preview - https://served-recipe-platform-my1m.vercel.app/
 
 # AI Recipe Platform
 
